@@ -30,5 +30,3 @@ def get_ulyanovsk_weather(api_key):
         print("Ошибка в формате ответа API")
         return 0
 
-# Ваш API-ключ от OpenWeatherMap (замените на свой)
-API_KEY = "e95025e9efaeced2cd9f0f960b5b6079"  # Получите на https://home.openweathermap.org/api_keys
